@@ -1,13 +1,13 @@
 # MEANStack-POC-'
 
-# To Run Client
+ To Run Client
 
 ng serve --open 
 
-# Remember to start mongodb connection by
+ Remember to start mongodb connection by
   sudo service mongod start
   
-# To Run Backend
+ To Run Backend
 
 nodemon index
 
