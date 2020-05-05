@@ -2,14 +2,14 @@
 
  To Run Client
 
-ng serve --open 
+ # ng serve --open 
 
  Remember to start mongodb connection by
-  sudo service mongod start
+  # sudo service mongod start
   
  To Run Backend
 
-nodemon index
+# nodemon index
 
 
 
